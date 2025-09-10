@@ -33,12 +33,12 @@ _types of testing_
 1. Automated testing
 2. Manual testing
 
-_Mode of testing_
+_*Mode of testing*_
 
 1. Unit testing
 2. Integration tests
 
-_Testing frameworks_
+_*Testing frameworks*_
 
 1. pytest
 2. unittest
